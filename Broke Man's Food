@@ -4,7 +4,7 @@
            <h1>An Broke man Day.</h2>
                <p>Introductory information is placed in here.</p>
       </div><hr/>
-      <div style="Width:400px:height:550px; margin:auto;padding:50px; background-image:#5A5A5A; color:#FFFFFF;border-style:double; background-image:url('broke_breafust.png');">
+      <div style="Width:400px:height:550px; margin:auto;padding:50px; background-image:#5A5A5A; color:#000000;border-style:double; background-image:url('broke_breafust.png');background-repeat:no-repeat;">
            <h2>Breakfast Finds.</h2>
                <ol>
                  <li>Grit</li>
@@ -16,7 +16,7 @@
                  <li>eggs</li>
                </ol>
       </div><hr/>
-      <div style="Width:400px:height:550px; margin:auto;padding:50px; background-image:#5A5A5A; color:#FFFFFF;border-style:double; background-image:url('broke_lunch.png');">
+      <div style="Width:400px:height:550px; margin:auto;padding:50px; background-image:#5A5A5A; color:#000000;border-style:double; background-image:url('broke_lunch.png');background-repeat:no-repeat;">
          <h2> Afternoon Scraps.</h2>
              <ol>
                  <li>Bologune Sandwich</li>
@@ -28,7 +28,7 @@
                  <li>Kool-Aid</li>
                </ol>
     </div><hr/>
-    <div style="Width:400px:height:550px; margin:auto;padding:50px; background-image:#5A5A5A; color:#FFFFFF;border-style:double; background-image:url('broke_dinner.png');">
+    <div style="Width:400px:height:550px; margin:auto;padding:50px; background-image:#5A5A5A; color:#000000;border-style:double; background-image:url('broke_dinner.png');background-repeat:no-repeat;">
        <h2>Last find of the day.</h2>
          <ol>
                  <li>Beans</li>
